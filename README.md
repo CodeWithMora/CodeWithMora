@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CodeWithMora
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java & SQL
+- ⌛ I’m 15 Years Old
