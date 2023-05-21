@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @CodeWithMora
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java & SQL
-- ⌛ I’m 15 Years Old
+Hello! I'm @CodeWithMora 👋
+
+-I am from Mexico 🇲🇽
+
+-I am 15 years old 🎂
+
+-I am currently learning Java and SQL 💻📚
+
+-I am interested in software development and desktop applications 📊💻
+
+-I really enjoy programming and I'm always eager to learn more 🌟📚
+
+-My dream is to work on large-scale projects as a personal hobby 💪😄
