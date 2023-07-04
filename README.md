@@ -4,7 +4,7 @@ Hello! I'm @CodeWithMora 👋
 
 -I am 15 years old 🎂
 
--I am currently learning C#💻📚
+-I am currently learning how to be fullstack💻📚
 
 -I am interested in software development and desktop applications 📊💻
 
